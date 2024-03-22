@@ -4,7 +4,6 @@
 
 ![Top Langs](https://github-readme-stats-clone-9wtm.vercel.app/api/top-langs/?username=tora223&theme=vue-dark&count_private=True)
 
-
 <!--
 **tora223/tora223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
