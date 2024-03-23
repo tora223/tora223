@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats-clone-9wtm.vercel.app/api?username=tora223&theme=vue-dark&show_icons=true&count_private=False)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tora223&theme=vue-dark&show_icons=true&count_private=False)
 
 ![Top Langs](https://github-readme-stats-clone-9wtm.vercel.app/api/top-langs/?username=tora223&theme=vue-dark&count_private=True)
 
