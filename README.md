@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats-three-smoky-51.vercel.app/api/top-langs/?username=tora223&layout=compact&theme=vue-dark&count_private=True&exclude_repo=github-readme-stats&hide=jupyter%20notebook&langs_count=6)
+<!-- ![Top Langs](https://github-readme-stats-three-smoky-51.vercel.app/api/top-langs/?username=tora223&layout=compact&theme=vue-dark&count_private=True&exclude_repo=github-readme-stats&hide=jupyter%20notebook&langs_count=6) -->
 
 <!--
 **tora223/tora223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
